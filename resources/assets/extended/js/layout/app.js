@@ -1,7 +1,7 @@
 "use strict";
 
-require('select2');
-require('../../../core/js/vendors/plugins/select2.init.js');
+import 'select2';
+import '../../../core/js/vendors/plugins/select2.init.js';
 
 // Class definition
 var KTApp = function() {
